@@ -1,0 +1,14 @@
+{
+    "Admins": {
+        "Abdelrahman": {
+            "Password": "13579"
+        },
+        "Mohamed": {
+            "Password": "48120"
+        },
+        "Mohanad": {
+            "Password": "29301"
+        }
+    },
+    "Users": {}
+}
