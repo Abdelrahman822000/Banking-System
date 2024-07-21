@@ -741,7 +741,7 @@ bool ServerHandler::updateUser(const QString &accountNumber, const QString &full
 
         // Add the new username to Login.json
         QJsonObject newUser;
-        newUser["Username"] = username;
+        newUser["Username"] = existingUserLoginData["Username"].toString();
         newUser["Password"] = existingUserLoginData["Password"].toString();
         newUser["AccountNumber"] = accountNumber;
         users[username] = newUser;

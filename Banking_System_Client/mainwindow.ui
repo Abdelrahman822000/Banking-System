@@ -34,7 +34,7 @@
      <bool>false</bool>
     </property>
     <property name="currentIndex">
-     <number>2</number>
+     <number>0</number>
     </property>
     <widget class="QWidget" name="tab_4">
      <attribute name="title">
@@ -156,7 +156,7 @@
                   </font>
                  </property>
                  <property name="text">
-                  <string>Enter UserName  :-</string>
+                  <string>UserName  :-</string>
                  </property>
                 </widget>
                </item>
@@ -188,7 +188,7 @@
                   </font>
                  </property>
                  <property name="text">
-                  <string>Enter Password :-</string>
+                  <string>Password :-</string>
                  </property>
                 </widget>
                </item>
@@ -304,7 +304,7 @@
              </font>
             </property>
             <property name="text">
-             <string>Enter Account Number :-</string>
+             <string>Account Number :-</string>
             </property>
            </widget>
           </item>
@@ -339,7 +339,7 @@
              </font>
             </property>
             <property name="text">
-             <string>Enter Count :-</string>
+             <string>Count :-</string>
             </property>
            </widget>
           </item>
@@ -471,7 +471,7 @@
               </font>
              </property>
              <property name="text">
-              <string>Enter Full Name :-</string>
+              <string>Full Name :-</string>
              </property>
             </widget>
            </item>
@@ -506,7 +506,7 @@
               </font>
              </property>
              <property name="text">
-              <string>Enter Password  :-</string>
+              <string>Password  :-</string>
              </property>
             </widget>
            </item>
@@ -544,7 +544,7 @@
               </font>
              </property>
              <property name="text">
-              <string>Enter Email  :-</string>
+              <string>Email  :-</string>
              </property>
             </widget>
            </item>
@@ -579,7 +579,7 @@
               </font>
              </property>
              <property name="text">
-              <string>Enter Age  :-</string>
+              <string>Age  :-</string>
              </property>
             </widget>
            </item>
@@ -614,7 +614,7 @@
               </font>
              </property>
              <property name="text">
-              <string>Enter Signature  :-</string>
+              <string>Signature  :-</string>
              </property>
             </widget>
            </item>
@@ -677,7 +677,7 @@
           <x>12</x>
           <y>12</y>
           <width>821</width>
-          <height>221</height>
+          <height>211</height>
          </rect>
         </property>
         <layout class="QVBoxLayout" name="verticalLayout_7">
@@ -696,7 +696,7 @@
               </font>
              </property>
              <property name="text">
-              <string>Enter Account Number :-</string>
+              <string>Account Number :-</string>
              </property>
             </widget>
            </item>
@@ -731,7 +731,7 @@
               </font>
              </property>
              <property name="text">
-              <string>Enter Full Name :-</string>
+              <string>Full Name :-</string>
              </property>
             </widget>
            </item>
@@ -766,7 +766,7 @@
               </font>
              </property>
              <property name="text">
-              <string>Enter Password  :-</string>
+              <string>Password  :-</string>
              </property>
             </widget>
            </item>
@@ -804,7 +804,7 @@
               </font>
              </property>
              <property name="text">
-              <string>Enter Email  :-</string>
+              <string>Email  :-</string>
              </property>
             </widget>
            </item>
@@ -839,7 +839,7 @@
               </font>
              </property>
              <property name="text">
-              <string>Enter Age  :-</string>
+              <string>Age  :-</string>
              </property>
             </widget>
            </item>
@@ -874,7 +874,7 @@
               </font>
              </property>
              <property name="text">
-              <string>Enter Signature  :-</string>
+              <string>Signature  :-</string>
              </property>
             </widget>
            </item>
@@ -956,7 +956,7 @@
               </font>
              </property>
              <property name="text">
-              <string>Enter Account Number :-</string>
+              <string>Account Number :-</string>
              </property>
             </widget>
            </item>
@@ -1041,7 +1041,7 @@
              </font>
             </property>
             <property name="text">
-             <string>Enter Username  :-</string>
+             <string>Username  :-</string>
             </property>
            </widget>
           </item>
@@ -1140,7 +1140,7 @@
              </font>
             </property>
             <property name="text">
-             <string>Enter Account Number :-</string>
+             <string>Account Number :-</string>
             </property>
            </widget>
           </item>
@@ -1267,7 +1267,7 @@
          <x>11</x>
          <y>30</y>
          <width>401</width>
-         <height>80</height>
+         <height>71</height>
         </rect>
        </property>
        <layout class="QVBoxLayout" name="verticalLayout_4">
@@ -1283,7 +1283,7 @@
              </font>
             </property>
             <property name="text">
-             <string>Enter Count  :-</string>
+             <string>Count  :-</string>
             </property>
            </widget>
           </item>
@@ -1356,7 +1356,7 @@
              </font>
             </property>
             <property name="text">
-             <string>Enter Account Number of Reciever :-</string>
+             <string>Account Number of Reciever :-</string>
             </property>
            </widget>
           </item>
@@ -1391,7 +1391,7 @@
              </font>
             </property>
             <property name="text">
-             <string>Enter Amount  :-</string>
+             <string>Amount  :-</string>
             </property>
            </widget>
           </item>
@@ -1429,7 +1429,7 @@
              </font>
             </property>
             <property name="text">
-             <string>Enter Signature :-</string>
+             <string>Signature :-</string>
             </property>
            </widget>
           </item>
@@ -1541,7 +1541,7 @@
              </font>
             </property>
             <property name="text">
-             <string>Enter Amount  :-</string>
+             <string>Amount  :-</string>
             </property>
            </widget>
           </item>
@@ -1576,7 +1576,7 @@
              </font>
             </property>
             <property name="text">
-             <string>Choose Operation :-</string>
+             <string>Operation :-</string>
             </property>
            </widget>
           </item>
