@@ -728,16 +728,16 @@ bool ServerHandler::updateUser(const QString &accountNumber, const QString &full
     }
     if (!username.isEmpty())
     {
-        // Update username in the login data and user data
-        existingUserLoginData["Username"] = username;
-        existingUserData["Username"] = username;
-
         // Remove the old username from Login.json
         QJsonObject users = loginData.value("Users").toObject();
         if (users.contains(existingUserData.value("Username").toString()))
         {
             users.remove(existingUserData.value("Username").toString());
         }
+
+        // Update username in the login data and user data
+        existingUserLoginData["Username"] = username;
+        existingUserData["Username"] = username;
 
         // Add the new username to Login.json
         QJsonObject newUser;
