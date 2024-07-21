@@ -1,0 +1,42 @@
+[2024-07-21 16:59:08] : Client 892 is connected to the server
+[2024-07-21 16:59:20] : Client 924 is connected to the server
+[2024-07-21 17:00:04] : Client 892, Received Request: Login with Data: Abdelrahman,13579 From Client 892
+[2024-07-21 17:00:04] : Client 892, Login Done as Admin
+[2024-07-21 17:00:27] : Client 892, Received Request: Create User with Data: abdealrahman,24680,Abdealrahman Mohamed,a.mohamed822000@gmail.com,24,abdmo From Client 892
+[2024-07-21 17:00:27] : Client 892, Request Approved: New user added successfully.
+[2024-07-21 17:01:08] : Client 892, Received Request: Get Account Number as admin with Data: abdealrahman From Client 892
+[2024-07-21 17:01:08] : Client 892, Request Approved: User found sending account number.
+[2024-07-21 17:01:32] : Client 892, Received Request: Update User with Data: abdelrahman,,Abdelrahman Mohamed,,25,3319266540, From Client 892
+[2024-07-21 17:01:32] : Client 892, Request Approved: User updated successfully.
+[2024-07-21 17:01:50] : Client 892, Received Request: Create User with Data: abdealrahman,24680,Abdealrahman Mohamed,a.mohamed822000@gmail.com,24,abdmo From Client 892
+[2024-07-21 17:01:50] : Client 892, Request Denied: Username is not available.
+[2024-07-21 17:01:58] : Client 892, Received Request: Create User with Data: ahmed,24680,Ahmed Mohamed,a.mohamed822000@gmail.com,24,abdmo From Client 892
+[2024-07-21 17:01:58] : Client 892, Request Approved: New user added successfully.
+[2024-07-21 17:02:13] : Client 892, Received Request: Delete User with Data: 7619371936 From Client 892
+[2024-07-21 17:02:13] : Client 892, Request Approved: User deleted successfully.
+[2024-07-21 17:02:29] : Client 892, Received Request: View Bank Database with Data: None From Client 892
+[2024-07-21 17:02:49] : Client 892, Received Request: View Transaction History as admin with Data: 3319266540,1 From Client 892
+[2024-07-21 17:02:56] : Client 892, Received Request: View Account Balance as admin with Data: 3319266540 From Client 892
+[2024-07-21 17:02:56] : Client 892, Request Approved: sending balance
+[2024-07-21 17:03:17] : Client 924, Received Request: Login with Data: abdelrahman,24680 From Client 924
+[2024-07-21 17:03:17] : Client 924, Login Done as User
+[2024-07-21 17:03:29] : Client 924, Received Request: Get Account Number as user with Data: abdelrahman From Client 924
+[2024-07-21 17:03:29] : Client 924, Request Approved: User found sending account number.
+[2024-07-21 17:03:34] : Client 924, Received Request: View Account Balance as user with Data: abdelrahman From Client 924
+[2024-07-21 17:03:34] : Client 924, Request Approved: sending balance
+[2024-07-21 17:03:40] : Client 924, Received Request: View Transaction History as user with Data: abdelrahman,1 From Client 924
+[2024-07-21 17:03:49] : Client 924, Received Request: Make Transaction with Data: abdelrahman,2000,Deposit From Client 924
+[2024-07-21 17:03:49] : Client 924, Request Approved: Transaction Done.
+[2024-07-21 17:03:56] : Client 924, Received Request: Make Transaction with Data: abdelrahman,400,Withdraw From Client 924
+[2024-07-21 17:03:56] : Client 924, Request Approved: Transaction Done.
+[2024-07-21 17:04:05] : Client 924, Received Request: Make Transaction with Data: abdelrahman,4000,Deposit From Client 924
+[2024-07-21 17:04:05] : Client 924, Request Approved: Transaction Done.
+[2024-07-21 17:04:15] : Client 924, Received Request: View Transaction History as user with Data: abdelrahman,3 From Client 924
+[2024-07-21 17:04:44] : Client 892, Received Request: Create User with Data: ahmed,24680,Ahmed Mohamed,abdelrahmanmohamedhamad17@gmail.com
+,24,abdmo From Client 892
+[2024-07-21 17:04:44] : Client 892, Request Approved: New user added successfully.
+[2024-07-21 17:05:09] : Client 924, Received Request: Transfer Amount with Data: abdelrahman,7228035193,600,abdm From Client 924
+[2024-07-21 17:05:09] : Client 924, Request Denied: Transfer Failed: Invalid signature for sender.
+[2024-07-21 17:05:16] : Client 924, Received Request: Transfer Amount with Data: abdelrahman,7228035193,600,abdmo From Client 924
+[2024-07-21 17:05:16] : Client 924, Request Approved: Transfer Done.
+[2024-07-21 17:05:46] : Client 892, Received Request: View Transaction History as admin with Data: 3319266540,1 From Client 892

@@ -7,11 +7,12 @@ int main(int argc, char *argv[])
     QApplication a(argc, argv); // Create a QApplication object
 
     // Style sheet downloaded from QSS stock (https://qss-stock.devsecstudio.com/)
-    QFile styleSheetFile("..\\..\\Style\\Darkeum.qss"); // Define a QFile object to read the stylesheet file
+    QFile styleSheetFile("../../../Style/Darkeum.qss"); // Define a QFile object to read the stylesheet file
 
     if (!styleSheetFile.open(QIODevice::ReadOnly)) // Check if the stylesheet file can be opened
     {
-        qWarning() << "Couldn't open users file."; // Output a warning message if the file couldn't be opened
+            qWarning() << "Couldn't open users file."; // Output a warning message if the file couldn't be opened
+
     }
     QString styleSheet = QLatin1String(styleSheetFile.readAll()); // Read the contents of the stylesheet file into a QString
 
@@ -19,9 +20,11 @@ int main(int argc, char *argv[])
 
     MainWindow w; // Create an instance of the MainWindow class
 
-    w.setWindowTitle("Library Management System"); // Set the window title
+    w.setWindowTitle("Banking System"); // Set the window title
 
-    QIcon icon("../../icon/icon.ico"); // Define a QIcon object with the path to the icon file
+    QString iconPath = "../../../icon/BankIcon.ico";
+    QIcon icon(iconPath); // Define a QIcon object with the path to the icon file
+
     w.setWindowIcon(icon); // Set the window icon
 
     w.show(); // Show the main window

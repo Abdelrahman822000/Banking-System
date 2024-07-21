@@ -10,5 +10,21 @@
             "Password": "29301"
         }
     },
-    "Users": {}
+    "Users": {
+        "abdealrahman": {
+            "AccountNumber": "3319266540",
+            "Password": "24680",
+            "Username": "abdealrahman"
+        },
+        "abdelrahman": {
+            "AccountNumber": "3319266540",
+            "Password": "24680",
+            "Username": "abdelrahman"
+        },
+        "ahmed": {
+            "AccountNumber": "7228035193",
+            "Password": "24680",
+            "Username": "ahmed"
+        }
+    }
 }

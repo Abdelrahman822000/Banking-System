@@ -1,0 +1,44 @@
+{
+    "3319266540": {
+        "AccountNumber": "3319266540",
+        "Age": 25,
+        "Balance": 5000,
+        "Email": "a.mohamed822000@gmail.com",
+        "Fullname": "Abdelrahman Mohamed",
+        "Signature": "abdmo",
+        "Transaction History": [
+            {
+                "Date": "2024-07-21 17:03:49",
+                "Details": "+2000"
+            },
+            {
+                "Date": "2024-07-21 17:03:56",
+                "Details": "-400"
+            },
+            {
+                "Date": "2024-07-21 17:04:05",
+                "Details": "+4000"
+            },
+            {
+                "Date": "2024-07-21 17:05:16",
+                "Details": "600 to 7228035193"
+            }
+        ],
+        "Username": "abdelrahman"
+    },
+    "7228035193": {
+        "AccountNumber": "7228035193",
+        "Age": 24,
+        "Balance": 600,
+        "Email": "abdelrahmanmohamedhamad17@gmail.com\n",
+        "Fullname": "Ahmed Mohamed",
+        "Signature": "abdmo",
+        "Transaction History": [
+            {
+                "Date": "2024-07-21 17:05:16",
+                "Details": "600 from 3319266540"
+            }
+        ],
+        "Username": "ahmed"
+    }
+}
