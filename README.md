@@ -88,7 +88,7 @@ The server handles multiple client connections and processes all requests from u
         - **View Account balance:** View your account balance.
         - **View Account number:** View your account number.
         - **View Transaction History:** See your past transactions.
-        - **View the bank database:**View the details of all users
+        - **View the bank database:** View the details of all users
         - **Add User:** Add a new user to the database.
         - **Update User:** Update the data of a user in the database.
         - **Delete user:** Delete a user from the database; 
