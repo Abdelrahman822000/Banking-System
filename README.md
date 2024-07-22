@@ -7,9 +7,7 @@ A client-server banking system application that handles user authentication, acc
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [File Structure](#file-structure)
 - [License](#license)
-- [Contributing](#contributing)
 - [Contact](#contact)
 
 ## Project Description
@@ -26,7 +24,7 @@ The server handles multiple client connections and processes all requests from u
 - User operations: View account balance, account number, transaction history, and Perform transactions
 - Admin operations: View the bank database, data of users, add, update, and delete users 
 - Log all client-server interactions
-- Send email notifications for responses from server
+- Send email notifications for responses from the server
 
 ## Installation
 
@@ -99,7 +97,7 @@ The server handles multiple client connections and processes all requests from u
 
 ## Contact
 
-**If you have any questions, feel free to contact me:**
-    - **Phone:** +201028325749
-    - **Email:** a.mohamed822000@gmail.com.
-    - **LinkedIn:** [Abdelrahman Mohamed Hamad](https://www.linkedin.com/in/abdelrahman-mohamed-a1956b247/)
+If you have any questions, feel free to contact me:
+- **Phone:** +201028325749
+- **Email:** a.mohamed822000@gmail.com
+- **LinkedIn:** [Abdelrahman Mohamed Hamad](https://www.linkedin.com/in/abdelrahman-mohamed-a1956b247/)
