@@ -1,3 +1,5 @@
+**This Project was developed by Abdelrahman Mohamed Hamad**
+
 # Banking System
 
 A client-server banking system application that handles user authentication, account management, transaction processing, and administrative operations.
