@@ -40,3 +40,5 @@
 [2024-07-21 17:05:16] : Client 924, Received Request: Transfer Amount with Data: abdelrahman,7228035193,600,abdmo From Client 924
 [2024-07-21 17:05:16] : Client 924, Request Approved: Transfer Done.
 [2024-07-21 17:05:46] : Client 892, Received Request: View Transaction History as admin with Data: 3319266540,1 From Client 892
+[2024-07-21 23:03:30] : Client 876 is connected to the server
+[2024-07-21 23:03:34] : Client 876 disconnected from the server

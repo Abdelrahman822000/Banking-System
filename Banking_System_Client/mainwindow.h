@@ -29,7 +29,6 @@ public slots:
 public:
     MainWindow(QWidget *parent = nullptr); // Constructor
     ~MainWindow(); // Destructor
-    void showMessageBox(QString title, QString text, QMessageBox::Icon icon, QMessageBox::StandardButton button); // Utility function for showing message boxes
 
 private slots:
     // Slots for handling various button clicks in the UI
@@ -61,7 +60,9 @@ private:
     QEventLoop loop; // Event loop for handling asynchronous events
     QMessageBox msgBox; // Message box for showing messages
     Client client; // Client instance for network communication
+    void showMessageBox(QString title, QString text, QMessageBox::Icon icon, QMessageBox::StandardButton button); // Utility function for showing message boxes
     void resetUI(); // Resets the user interface to its initial state
+
 };
 
 #endif // MAINWINDOW_H
