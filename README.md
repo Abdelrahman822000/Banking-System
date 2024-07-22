@@ -95,6 +95,10 @@ The server handles multiple client connections and processes all requests from u
 - All interactions are logged in `Log/server_log.txt`.
 - All server responses will be sent to the email of the current logged in user.
 
+## License
+
+This project is licensed under the  GNU GENERAL PUBLIC LICENSE - see the [LICENSE](LICENSE) file for details.
+
 ## Contact
 
 If you have any questions, feel free to contact me:
