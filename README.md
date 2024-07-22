@@ -46,7 +46,8 @@ The server handles multiple client connections and processes all requests from u
     ```
 
 2. **Build the project:**
-    - Open the project in Qt Creator.
+    - Open the Banking_System_Server in Qt Creator by choosing `file -> Open file or Project` then navigate to where you cloned the repository and choose `Banking_System_Server.pro`
+    - Open the Banking_System_Client in Qt Creator by choosing `file -> Open file or Project` then navigate to where you cloned the repository and choose `Banking_System_Client.pro` 
     - Configure the project using your desired kit.
     - Build the project using the Build menu.
 
@@ -61,8 +62,6 @@ The server handles multiple client connections and processes all requests from u
 
 ### Running the Server
 
-1. **Open server application**
-    - Open Qt Creator and choose `file -> Open file or Project` then navigate to where you cloned the repository and choose `Banking_System_Server.pro` 
 1. **Start the server:**
     - Run the project using Qt creator the application will build then starts.
     - The server will start listening for incoming connections on port 1234.
@@ -70,8 +69,6 @@ The server handles multiple client connections and processes all requests from u
 
 ### Running the Client
 
-1. **Open client application**
-    - Open Qt Creator and choose `file -> Open file or Project` then navigate to where you cloned the repository and choose `Banking_System_Client.pro` 
 1. **Start the client:**
     - Run the project using Qt creator the application will build then starts.
     - Connect to the server using the appropriate IP and port.
