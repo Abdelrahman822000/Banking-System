@@ -2,7 +2,7 @@
     "3319266540": {
         "AccountNumber": "3319266540",
         "Age": 25,
-        "Balance": 5000,
+        "Balance": 6400,
         "Email": "a.mohamed822000@gmail.com",
         "Fullname": "Abdelrahman Mohamed",
         "Signature": "abdmo",
@@ -22,14 +22,34 @@
             {
                 "Date": "2024-07-21 17:05:16",
                 "Details": "600 to 7228035193"
+            },
+            {
+                "Date": "2024-07-29 16:10:21",
+                "Details": "+2000"
+            },
+            {
+                "Date": "2024-07-29 16:10:32",
+                "Details": "-200"
+            },
+            {
+                "Date": "2024-07-29 16:13:10",
+                "Details": "400 to 7228035193"
+            },
+            {
+                "Date": "2024-08-04 00:23:37",
+                "Details": "+2000"
+            },
+            {
+                "Date": "2024-08-04 00:24:23",
+                "Details": "2000 to 7228035193"
             }
         ],
         "Username": "abdelrahman"
     },
     "7228035193": {
         "AccountNumber": "7228035193",
-        "Age": 24,
-        "Balance": 600,
+        "Age": 27,
+        "Balance": 3800,
         "Email": "abdelrahmanmohamedhamad17@gmail.com",
         "Fullname": "Ahmed Mohamed",
         "Signature": "abdmo",
@@ -37,8 +57,29 @@
             {
                 "Date": "2024-07-21 17:05:16",
                 "Details": "600 from 3319266540"
+            },
+            {
+                "Date": "2024-07-29 16:13:10",
+                "Details": "400 from 3319266540"
+            },
+            {
+                "Date": "2024-08-04 00:24:23",
+                "Details": "2000 from 3319266540"
+            },
+            {
+                "Date": "2024-08-04 01:56:40",
+                "Details": "800 from 9275236506"
             }
         ],
         "Username": "ahmed"
+    },
+    "9158521041": {
+        "AccountNumber": "9158521041",
+        "Age": 24,
+        "Balance": 0,
+        "Email": "a.mohamed822000@gmail.com",
+        "Fullname": "Abdo",
+        "Signature": "abdo1",
+        "Username": "abdo"
     }
 }

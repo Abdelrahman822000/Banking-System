@@ -491,6 +491,11 @@ void MainWindow::on_ViewButton_clicked()
         showMessageBox("Invalid Input", "Please fill all the fields correctly.", QMessageBox::Warning, QMessageBox::Ok);
         return;
     }
+    else if(count.toInt() < 0)
+    {
+        showMessageBox("Invalid Input", "Please enter a positive count.", QMessageBox::Warning, QMessageBox::Ok);
+        return;
+    }
     QString Request = "View Transaction History as admin";
 
     QString data = accountNumber + "," + count;
@@ -565,6 +570,11 @@ void MainWindow::on_ViewButton_5_clicked()
     if (user.isEmpty() || count.isEmpty())
     {
         showMessageBox("Invalid Input", "Please fill all the fields correctly.", QMessageBox::Warning, QMessageBox::Ok);
+        return;
+    }
+    else if(count.toInt() < 0)
+    {
+        showMessageBox("Invalid Input", "Please enter a positive count.", QMessageBox::Warning, QMessageBox::Ok);
         return;
     }
     QString Request = "View Transaction History as user";
@@ -671,6 +681,11 @@ void MainWindow::on_StartButton_clicked()
         showMessageBox("Invalid Input", "Please fill all the fields correctly.", QMessageBox::Warning, QMessageBox::Ok);
         return;
     }
+    else if(amount.toInt() < 0)
+    {
+        showMessageBox("Invalid Input", "Please enter a positive amount.", QMessageBox::Warning, QMessageBox::Ok);
+        return;
+    }
 
     QString Request = "Transfer Amount";
 
@@ -700,6 +715,11 @@ void MainWindow::on_StartButton_2_clicked()
     if (user.isEmpty() || amount.isEmpty() || operation.isEmpty())
     {
         showMessageBox("Invalid Input", "Please fill all the fields correctly.", QMessageBox::Warning, QMessageBox::Ok);
+        return;
+    }
+    else if(amount.toInt() < 0)
+    {
+        showMessageBox("Invalid Input", "Please enter a positive amount.", QMessageBox::Warning, QMessageBox::Ok);
         return;
     }
 

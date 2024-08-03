@@ -42,3 +42,135 @@
 [2024-07-21 17:05:46] : Client 892, Received Request: View Transaction History as admin with Data: 3319266540,1 From Client 892
 [2024-07-21 23:03:30] : Client 876 is connected to the server
 [2024-07-21 23:03:34] : Client 876 disconnected from the server
+[2024-07-29 14:32:14] : Client 800 is connected to the server
+[2024-07-29 14:32:22] : Client 800, Received Request: Login with Data: Abdelrahman,13579 From Client 800
+[2024-07-29 14:32:22] : Client 800, Login Done as Admin
+[2024-07-29 14:32:43] : Client 800, Received Request: Create User with Data: abdo,4949,Abdo,a.mohamed822000@gmail.com,24,abdo1 From Client 800
+[2024-07-29 14:32:43] : Client 800, Request Approved: New user added successfully.
+[2024-07-29 14:32:57] : Client 800, Received Request: Get Account Number as admin with Data: abdo From Client 800
+[2024-07-29 14:32:57] : Client 800, Request Approved: User found sending account number.
+[2024-07-29 14:33:05] : Client 800 disconnected from the server
+[2024-07-29 15:27:17] : Client 872 is connected to the server
+[2024-07-29 15:27:20] : Client 872 disconnected from the server
+[2024-07-29 16:04:57] : Client 76 is connected to the server
+[2024-07-29 16:05:23] : Client 920 is connected to the server
+[2024-07-29 16:05:47] : Client 76, Received Request: Login with Data: Mohamed,48120 From Client 76
+[2024-07-29 16:05:47] : Client 76, Login Done as Admin
+[2024-07-29 16:06:33] : Client 76, Received Request: Create User with Data: abdel,4844,Abdel,a.mohamed822000@gmail.com,24,moh From Client 76
+[2024-07-29 16:06:34] : Client 76, Request Approved: New user added successfully.
+[2024-07-29 16:08:32] : Client 76, Received Request: Get Account Number as admin with Data: abdel From Client 76
+[2024-07-29 16:08:32] : Client 76, Request Approved: User found sending account number.
+[2024-07-29 16:08:43] : Client 76, Received Request: Update User with Data: ,,,,25,8713983523, From Client 76
+[2024-07-29 16:08:43] : Client 76, Request Approved: User updated successfully.
+[2024-07-29 16:08:57] : Client 76, Received Request: Delete User with Data: 8713983523 From Client 76
+[2024-07-29 16:08:57] : Client 76, Request Approved: User deleted successfully.
+[2024-07-29 16:09:17] : Client 76, Received Request: View Transaction History as admin with Data: 3319266540,3 From Client 76
+[2024-07-29 16:09:40] : Client 76, Received Request: View Account Balance as admin with Data: 3319266540 From Client 76
+[2024-07-29 16:09:40] : Client 76, Request Approved: sending balance
+[2024-07-29 16:09:45] : Client 76, Received Request: View Bank Database with Data: None From Client 76
+[2024-07-29 16:10:10] : Client 920, Received Request: Login with Data: abdelrahman,24680 From Client 920
+[2024-07-29 16:10:10] : Client 920, Login Done as User
+[2024-07-29 16:10:21] : Client 920, Received Request: Make Transaction with Data: abdelrahman,2000,Deposit From Client 920
+[2024-07-29 16:10:21] : Client 920, Request Approved: Transaction Done.
+[2024-07-29 16:10:32] : Client 920, Received Request: Make Transaction with Data: abdelrahman,200,Withdraw From Client 920
+[2024-07-29 16:10:32] : Client 920, Request Approved: Transaction Done.
+[2024-07-29 16:10:44] : Client 920, Received Request: Make Transaction with Data: abdelrahman,-200,Withdraw From Client 920
+[2024-07-29 16:10:44] : Client 920, Request Approved: Transaction Done.
+[2024-07-29 16:10:48] : Client 920, Received Request: Make Transaction with Data: abdelrahman,adad,Withdraw From Client 920
+[2024-07-29 16:10:49] : Client 920, Request Approved: Transaction Done.
+[2024-07-29 16:11:01] : Client 920, Received Request: Get Account Number as user with Data: abdelrahman From Client 920
+[2024-07-29 16:11:01] : Client 920, Request Approved: User found sending account number.
+[2024-07-29 16:11:03] : Client 920, Received Request: View Account Balance as user with Data: abdelrahman From Client 920
+[2024-07-29 16:11:03] : Client 920, Request Approved: sending balance
+[2024-07-29 16:11:09] : Client 920, Received Request: View Transaction History as user with Data: abdelrahman,3 From Client 920
+[2024-07-29 16:11:28] : Client 920, Received Request: Transfer Amount with Data: abdelrahman,7228035193,400,mhh From Client 920
+[2024-07-29 16:11:28] : Client 920, Request Denied: Transfer Failed: Invalid signature for sender.
+[2024-07-29 16:13:10] : Client 920, Received Request: Transfer Amount with Data: abdelrahman,7228035193,400,abdmo From Client 920
+[2024-07-29 16:13:10] : Client 920, Request Approved: Transfer Done.
+[2024-07-29 16:13:20] : Client 920 disconnected from the server
+[2024-07-29 16:13:26] : Client 76 disconnected from the server
+[2024-08-04 00:17:32] : Client 832 is connected to the server
+[2024-08-04 00:18:24] : Client 832, Received Request: Login with Data: Abdelrahman,13579 From Client 832
+[2024-08-04 00:18:24] : Client 832, Login Done as Admin
+[2024-08-04 00:18:59] : Client 832, Received Request: View Bank Database with Data: None From Client 832
+[2024-08-04 00:19:59] : Client 832, Received Request: View Bank Database with Data: None From Client 832
+[2024-08-04 00:23:08] : Client 832 disconnected from the server
+[2024-08-04 00:23:11] : Client 924 is connected to the server
+[2024-08-04 00:23:19] : Client 924, Received Request: Login with Data: abdelrahman,24680 From Client 924
+[2024-08-04 00:23:19] : Client 924, Login Done as User
+[2024-08-04 00:23:32] : Client 924, Received Request: Get Account Number as user with Data: abdelrahman From Client 924
+[2024-08-04 00:23:32] : Client 924, Request Approved: User found sending account number.
+[2024-08-04 00:23:34] : Client 924, Received Request: View Account Balance as user with Data: abdelrahman From Client 924
+[2024-08-04 00:23:34] : Client 924, Request Approved: sending balance
+[2024-08-04 00:23:37] : Client 924, Received Request: Make Transaction with Data: abdelrahman,2000,Deposit From Client 924
+[2024-08-04 00:23:37] : Client 924, Request Approved: Transaction Done.
+[2024-08-04 00:23:40] : Client 924, Received Request: View Transaction History as user with Data: abdelrahman,1 From Client 924
+[2024-08-04 00:24:23] : Client 924, Received Request: Transfer Amount with Data: abdelrahman,7228035193,2000,abdmo From Client 924
+[2024-08-04 00:24:23] : Client 924, Request Approved: Transfer Done.
+[2024-08-04 00:24:25] : Client 924, Received Request: View Transaction History as user with Data: abdelrahman,1 From Client 924
+[2024-08-04 00:26:46] : Client 924 disconnected from the server
+[2024-08-04 00:30:39] : Client 924 is connected to the server
+[2024-08-04 00:30:47] : Client 924, Received Request: Login with Data: Abdelrahman,13579 From Client 924
+[2024-08-04 00:30:47] : Client 924, Login Done as Admin
+[2024-08-04 00:33:34] : Client 924 disconnected from the server
+[2024-08-04 01:01:51] : Client 860 is connected to the server
+[2024-08-04 01:01:59] : Client 860, Received Request: Login with Data: Abdelrahman,13579 From Client 860
+[2024-08-04 01:01:59] : Client 860, Login Done as Admin
+[2024-08-04 01:02:21] : Client 860 disconnected from the server
+[2024-08-04 01:47:31] : Client 896 is connected to the server
+[2024-08-04 01:47:47] : Client 896, Received Request: Login with Data: Abdelrahman,13579 From Client 896
+[2024-08-04 01:47:47] : Client 896, Login Done as Admin
+[2024-08-04 01:48:25] : Client 896, Received Request: Create User with Data: ahmed,12345,Ahmed Mohamed,a.mohamed822000@gmail.com,25,ahmedmohamed From Client 896
+[2024-08-04 01:48:25] : Client 896, Request Denied: Username is not available.
+[2024-08-04 01:48:36] : Client 896, Received Request: Create User with Data: sayed,12345,Sayed Mohamed,a.mohamed822000@gmail.com,25,ahmedmohamed From Client 896
+[2024-08-04 01:48:36] : Client 896, Request Approved: New user added successfully.
+[2024-08-04 01:49:28] : Client 896, Received Request: Update User with Data: ,,,,26,7228035193, From Client 896
+[2024-08-04 01:49:28] : Client 896, Request Approved: User updated successfully.
+[2024-08-04 01:49:44] : Client 896, Received Request: Update User with Data: ,,,,27,7228035193, From Client 896
+[2024-08-04 01:49:44] : Client 896, Request Approved: User updated successfully.
+[2024-08-04 01:49:55] : Client 896, Received Request: Delete User with Data: 4667910366 From Client 896
+[2024-08-04 01:49:55] : Client 896, Request Approved: User deleted successfully.
+[2024-08-04 01:50:15] : Client 896, Received Request: View Transaction History as admin with Data: 3319266540,2 From Client 896
+[2024-08-04 01:50:28] : Client 896, Received Request: View Bank Database with Data: None From Client 896
+[2024-08-04 01:50:43] : Client 896, Received Request: Get Account Number as admin with Data: abdelrahman From Client 896
+[2024-08-04 01:50:43] : Client 896, Request Approved: User found sending account number.
+[2024-08-04 01:50:58] : Client 896, Received Request: View Account Balance as admin with Data: 3319266540 From Client 896
+[2024-08-04 01:50:58] : Client 896, Request Approved: sending balance
+[2024-08-04 01:51:07] : Client 896 disconnected from the server
+[2024-08-04 01:53:36] : Client 772 is connected to the server
+[2024-08-04 01:53:47] : Client 772, Received Request: Login with Data: Abdelrahman,13579 From Client 772
+[2024-08-04 01:53:47] : Client 772, Login Done as Admin
+[2024-08-04 01:54:11] : Client 772, Received Request: Create User with Data: sayed,12345,Sayed Ahmed,a.mohamed822000@gmail.com,25,sayedahmed From Client 772
+[2024-08-04 01:54:11] : Client 772, Request Approved: New user added successfully.
+[2024-08-04 01:54:37] : Client 772, Received Request: Get Account Number as admin with Data: sayed From Client 772
+[2024-08-04 01:54:37] : Client 772, Request Approved: User found sending account number.
+[2024-08-04 01:54:55] : Client 772, Received Request: Update User with Data: ,,,,28,9275236506, From Client 772
+[2024-08-04 01:54:55] : Client 772, Request Approved: User updated successfully.
+[2024-08-04 01:55:16] : Client 956 is connected to the server
+[2024-08-04 01:55:26] : Client 956, Received Request: Login with Data: sayed,12345 From Client 956
+[2024-08-04 01:55:26] : Client 956, Login Done as User
+[2024-08-04 01:55:33] : Client 956, Received Request: Make Transaction with Data: sayed,2000,Deposit From Client 956
+[2024-08-04 01:55:33] : Client 956, Request Approved: Transaction Done.
+[2024-08-04 01:55:47] : Client 956, Received Request: Make Transaction with Data: sayed,200,Withdraw From Client 956
+[2024-08-04 01:55:47] : Client 956, Request Approved: Transaction Done.
+[2024-08-04 01:55:53] : Client 956, Received Request: Get Account Number as user with Data: sayed From Client 956
+[2024-08-04 01:55:53] : Client 956, Request Approved: User found sending account number.
+[2024-08-04 01:55:58] : Client 956, Received Request: View Account Balance as user with Data: sayed From Client 956
+[2024-08-04 01:55:58] : Client 956, Request Approved: sending balance
+[2024-08-04 01:56:04] : Client 956, Received Request: View Transaction History as user with Data: sayed,2 From Client 956
+[2024-08-04 01:56:28] : Client 956, Received Request: Transfer Amount with Data: sayed,7228035193,800,sa From Client 956
+[2024-08-04 01:56:28] : Client 956, Request Denied: Transfer Failed: Invalid signature for sender.
+[2024-08-04 01:56:40] : Client 956, Received Request: Transfer Amount with Data: sayed,7228035193,800,sayedahmed From Client 956
+[2024-08-04 01:56:40] : Client 956, Request Approved: Transfer Done.
+[2024-08-04 01:57:08] : Client 956 disconnected from the server
+[2024-08-04 01:57:21] : Client 772, Received Request: Delete User with Data: 9275236506 From Client 772
+[2024-08-04 01:57:21] : Client 772, Request Approved: User deleted successfully.
+[2024-08-04 01:57:43] : Client 772, Received Request: View Transaction History as admin with Data: 7228035193,2 From Client 772
+[2024-08-04 01:57:49] : Client 772, Received Request: View Account Balance as admin with Data: 7228035193 From Client 772
+[2024-08-04 01:57:49] : Client 772, Request Approved: sending balance
+[2024-08-04 01:57:56] : Client 772, Received Request: View Bank Database with Data: None From Client 772
+[2024-08-04 01:58:00] : Client 772 disconnected from the server
+[2024-08-04 02:04:04] : Client 904 is connected to the server
+[2024-08-04 02:04:11] : Client 904, Received Request: Login with Data: Abdelrahman,13579 From Client 904
+[2024-08-04 02:04:11] : Client 904, Login Done as Admin
+[2024-08-04 02:04:24] : Client 904 disconnected from the server

@@ -34,7 +34,7 @@
      <bool>false</bool>
     </property>
     <property name="currentIndex">
-     <number>2</number>
+     <number>0</number>
     </property>
     <widget class="QWidget" name="tab_4">
      <attribute name="title">
@@ -236,8 +236,18 @@
        </item>
        <item>
         <widget class="QPushButton" name="ExitButton">
+         <property name="font">
+          <font>
+           <family>Times New Roman</family>
+           <pointsize>10</pointsize>
+           <bold>true</bold>
+          </font>
+         </property>
          <property name="cursor">
           <cursorShape>PointingHandCursor</cursorShape>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">background-color: rgb(170, 0, 0);</string>
          </property>
          <property name="text">
           <string>Exit</string>
@@ -260,8 +270,18 @@
         <height>29</height>
        </rect>
       </property>
+      <property name="font">
+       <font>
+        <family>Times New Roman</family>
+        <pointsize>10</pointsize>
+        <bold>true</bold>
+       </font>
+      </property>
       <property name="cursor">
        <cursorShape>PointingHandCursor</cursorShape>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: rgb(170, 0, 0);</string>
       </property>
       <property name="text">
        <string>Exit</string>
@@ -380,6 +400,9 @@
         <width>421</width>
         <height>201</height>
        </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true"/>
       </property>
       <property name="title">
        <string>Output</string>
@@ -677,7 +700,7 @@
           <x>12</x>
           <y>12</y>
           <width>821</width>
-          <height>211</height>
+          <height>221</height>
          </rect>
         </property>
         <layout class="QVBoxLayout" name="verticalLayout_7">
@@ -1121,7 +1144,7 @@
          <x>10</x>
          <y>30</y>
          <width>401</width>
-         <height>61</height>
+         <height>66</height>
         </rect>
        </property>
        <layout class="QVBoxLayout" name="verticalLayout_21">
@@ -1242,8 +1265,18 @@
         <height>29</height>
        </rect>
       </property>
+      <property name="font">
+       <font>
+        <family>Times New Roman</family>
+        <pointsize>10</pointsize>
+        <bold>true</bold>
+       </font>
+      </property>
       <property name="cursor">
        <cursorShape>PointingHandCursor</cursorShape>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: rgb(170, 0, 0);</string>
       </property>
       <property name="text">
        <string>Exit</string>
