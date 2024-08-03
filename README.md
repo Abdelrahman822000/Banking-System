@@ -91,20 +91,32 @@ The server handles multiple client connections and processes all requests from u
 
         - **View Account number:** View account number of a user. ![Get Account Number Admin](https://github.com/user-attachments/assets/f0188e3b-409d-4ae9-925f-423dd4951b80)
 
-        - **View Transaction History:** See past transactions of a user. ![View Transaction History Admin](https://github.com/user-attachments/assets/31dc7570-30bb-46c8-b0f3-0d8adfdd7d3f)
+        - **View Transaction History:** See past transactions of a user.
 
-        - **View the bank database:** View the details of all users ![View Bank Database](https://github.com/user-attachments/assets/08446e97-db7f-419f-9884-962a810fc222)
+          ![View Transaction History Admin](https://github.com/user-attachments/assets/31dc7570-30bb-46c8-b0f3-0d8adfdd7d3f)
 
-        - **Output:** ![Output Admin](https://github.com/user-attachments/assets/bd017a98-1465-4fa1-8324-caad46db10f9)
+        - **View the bank database:** View the details of all users
+
+          ![View Bank Database](https://github.com/user-attachments/assets/08446e97-db7f-419f-9884-962a810fc222)
+
+        - **Output:**
+
+          ![Output Admin](https://github.com/user-attachments/assets/bd017a98-1465-4fa1-8324-caad46db10f9)
           
     3. ***User Operations:***
         ![User Tab](https://github.com/user-attachments/assets/55d9f786-2a97-4622-8573-acfa0b39856d)
 
-        - **View Account balance** ![View Account Balance User](https://github.com/user-attachments/assets/abfacea2-a196-43dc-9dee-70ba67387f1f)
+        - **View Account balance**
 
-        - **View Account number** ![Get Account Number User](https://github.com/user-attachments/assets/a80b9485-4aa4-4d73-8b7f-7504f690ec7a)
+          ![View Account Balance User](https://github.com/user-attachments/assets/abfacea2-a196-43dc-9dee-70ba67387f1f)
 
-        - **View Transaction History** ![View Transaction History User](https://github.com/user-attachments/assets/44d7efa4-b6e6-410e-807a-46fe6f6f6324)
+        - **View Account number**
+
+          ![Get Account Number User](https://github.com/user-attachments/assets/a80b9485-4aa4-4d73-8b7f-7504f690ec7a)
+
+        - **View Transaction History**
+
+          ![View Transaction History User](https://github.com/user-attachments/assets/44d7efa4-b6e6-410e-807a-46fe6f6f6324)
 
         - **Perform Transaction:** Deposit funds to your accounts, Withdraw funds from your account or Transfer funds to another account.
         ![Make Transaction](https://github.com/user-attachments/assets/69295986-aadf-43f9-af07-1db87f614e98)
