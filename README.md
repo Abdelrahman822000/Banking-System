@@ -76,22 +76,42 @@ The server handles multiple client connections and processes all requests from u
     - Any time you want to run again you can either run it from Qt Creator again or navigate to `Banking_System_Client/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/release` and run the `Banking_System_Client.exe` executable.
 
 2. **Client Operations:**
-    1. ***User Operations:***
-        - **Login:** Enter your credentials to log in.
-        - **View Account balance:** View your account balance.
-        - **View Account number:** View your account number.
-        - **View Transaction History:** See your past transactions.
-        - **Perform Transaction:** Deposit funds to your accounts, Withdraw funds from your account or Transfer funds to another account.
+    - **Welcome page:** Connect to the server. ![Welcome](https://github.com/user-attachments/assets/48475698-8946-4513-be92-839f4a024d7b)
 
-    2. **Admin Operations:** 
-        - **Login:** Enter your credentials to log in.
-        - **View Account balance:** View your account balance.
-        - **View Account number:** View your account number.
-        - **View Transaction History:** See your past transactions.
-        - **View the bank database:** View the details of all users
-        - **Add User:** Add a new user to the database.
-        - **Update User:** Update the data of a user in the database.
-        - **Delete user:** Delete a user from the database; 
+    - **Login** Check the credentials in `Database/Login.json` ![Login page](https://github.com/user-attachments/assets/55d069cf-f630-4be7-9a00-11eb0c102768)
+
+    1. **Admin Operations:**
+        - **Add User:** Add a new user to the database. ![Create new user](https://github.com/user-attachments/assets/db4b07d6-ab8d-440c-bf8f-1fc04c69098b)
+
+        - **Update User:** Update the data of a user in the database. ![Update User](https://github.com/user-attachments/assets/a6ba5b06-8beb-47af-9163-eb8e7a497790)
+
+        - **Delete user:** Delete a user from the database. ![Delete User](https://github.com/user-attachments/assets/bf83ec1f-bd7a-42bd-b0ac-72b522d44242)
+
+        - **View Account balance:** View account balance of a user. ![View Account Balance Admin](https://github.com/user-attachments/assets/d29ce41d-7102-4b49-9c72-7b1db5b8ba77)
+
+        - **View Account number:** View account number of a user. ![Get Account Number Admin](https://github.com/user-attachments/assets/f0188e3b-409d-4ae9-925f-423dd4951b80)
+
+        - **View Transaction History:** See past transactions of a user. ![View Transaction History Admin](https://github.com/user-attachments/assets/31dc7570-30bb-46c8-b0f3-0d8adfdd7d3f)
+
+        - **View the bank database:** View the details of all users ![View Bank Database](https://github.com/user-attachments/assets/08446e97-db7f-419f-9884-962a810fc222)
+
+        - **Output:** ![Output Admin](https://github.com/user-attachments/assets/bd017a98-1465-4fa1-8324-caad46db10f9)
+          
+    3. ***User Operations:***
+        ![User Tab](https://github.com/user-attachments/assets/55d9f786-2a97-4622-8573-acfa0b39856d)
+
+        - **View Account balance** ![View Account Balance User](https://github.com/user-attachments/assets/abfacea2-a196-43dc-9dee-70ba67387f1f)
+
+        - **View Account number** ![Get Account Number User](https://github.com/user-attachments/assets/a80b9485-4aa4-4d73-8b7f-7504f690ec7a)
+
+        - **View Transaction History** ![View Transaction History User](https://github.com/user-attachments/assets/44d7efa4-b6e6-410e-807a-46fe6f6f6324)
+
+        - **Perform Transaction:** Deposit funds to your accounts, Withdraw funds from your account or Transfer funds to another account.
+        ![Make Transaction](https://github.com/user-attachments/assets/69295986-aadf-43f9-af07-1db87f614e98)
+        ![Transfer Amount](https://github.com/user-attachments/assets/269f6bc5-62c8-49b0-b629-84642e7ff5f9)
+
+        - **Output:** ![Output User](https://github.com/user-attachments/assets/a140f52c-6948-4847-8537-ba0d1bcb5a51)
+
 ### Logging
 
 - All interactions are logged in `Log/server_log.txt`.
