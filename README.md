@@ -78,7 +78,7 @@ The server handles multiple client connections and processes all requests from u
 2. **Client Operations:**
     - **Welcome page:** Connect to the server. ![Welcome](https://github.com/user-attachments/assets/48475698-8946-4513-be92-839f4a024d7b)
 
-    - **Login** Check the credentials in `Database/Login.json` ![Login page](https://github.com/user-attachments/assets/55d069cf-f630-4be7-9a00-11eb0c102768)
+    - **Login:** Check the credentials in `Database/Login.json` ![Login page](https://github.com/user-attachments/assets/55d069cf-f630-4be7-9a00-11eb0c102768)
 
     1. **Admin Operations:**
         - **Add User:** Add a new user to the database. ![Create new user](https://github.com/user-attachments/assets/db4b07d6-ab8d-440c-bf8f-1fc04c69098b)
