@@ -119,6 +119,8 @@ The server handles multiple client connections and processes all requests from u
           ![View Transaction History User](https://github.com/user-attachments/assets/44d7efa4-b6e6-410e-807a-46fe6f6f6324)
 
         - **Perform Transaction:** Deposit funds to your accounts, Withdraw funds from your account or Transfer funds to another account.
+  
+       
         ![Make Transaction](https://github.com/user-attachments/assets/69295986-aadf-43f9-af07-1db87f614e98)
         ![Transfer Amount](https://github.com/user-attachments/assets/269f6bc5-62c8-49b0-b629-84642e7ff5f9)
 
