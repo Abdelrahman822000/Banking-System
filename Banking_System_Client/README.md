@@ -60,11 +60,6 @@ This project is a client application for a simple client-server banking system d
     - **User Operations:** View account balance, account number, transaction history, and perform transactions.
     - **Admin Operations:** Add, update, delete users, and view user data.
 
-### Logging
-
-- All interactions are logged in `Log/client_log.txt`.
-- All server responses will be sent to the email of the currently logged-in user.
-
 ## License
 
 This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE](LICENSE) file for details.
